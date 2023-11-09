@@ -7,7 +7,7 @@
 #include <HTTPClient.h>
 
 const char* wifiSSID = "OLIN-DEVICES";
-const char* wifiPassword = "Engineering4Every1!";
+const char* wifiPassword = ""; // put ur own passcode
 char jsonOutput[128];
 
 TdsSensor myTdsSensor;
